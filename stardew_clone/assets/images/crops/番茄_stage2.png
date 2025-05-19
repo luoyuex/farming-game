@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- 土壤 -->
+  <rect x="0" y="24" width="32" height="8" fill="#8B4513"/>
+  
+  <!-- 植物茎 -->
+  <rect x="15" y="12" width="2" height="12" fill="#006400"/>
+  
+  <!-- 叶子 -->
+  <path d="M15,14 Q8,10 11,6 Q16,10 15,14" fill="#32CD32"/>
+  <path d="M17,16 Q24,12 21,8 Q16,12 17,16" fill="#32CD32"/>
+  <path d="M15,20 Q10,17 13,14 Q16,17 15,20" fill="#32CD32"/>
+  <path d="M17,22 Q22,19 19,16 Q16,19 17,22" fill="#32CD32"/>
+  
+  <!-- 小番茄 -->
+  <circle cx="13" cy="8" r="3" fill="#ADFF2F"/>
+  <circle cx="19" cy="10" r="2" fill="#ADFF2F"/>
+</svg>

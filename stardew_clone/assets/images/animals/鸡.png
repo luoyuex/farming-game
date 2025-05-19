@@ -1,0 +1,14 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- 鸡的基本形状 -->
+  <ellipse cx="18" cy="20" rx="12" ry="10" fill="#ffe136" />
+  <!-- 翅膀 -->
+  <ellipse cx="10" cy="20" rx="5" ry="8" fill="#ffc54d" />
+  <!-- 头部 -->
+  <circle cx="24" cy="12" r="6" fill="#fff8d1" />
+  <!-- 鸡冠 -->
+  <path d="M24 6 L22 10 L24 8 L26 10 L28 8 L26 10 L24 6" fill="#f44336" />
+  <!-- 鸡嘴 -->
+  <path d="M26 14 L30 15 L26 16" fill="#ff9800" />
+  <!-- 眼睛 -->
+  <circle cx="23" cy="12" r="1" fill="#000" />
+</svg>

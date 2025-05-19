@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="48" viewBox="0 0 32 48">
+  <!-- 头部 -->
+  <circle cx="16" cy="12" r="8" fill="#FFD700"/>
+  
+  <!-- 脸部特征 -->
+  <circle cx="13" cy="10" r="1" fill="#000000"/>
+  <circle cx="19" cy="10" r="1" fill="#000000"/>
+  <path d="M14,14 Q16,16 18,14" stroke="#000000" fill="transparent" stroke-width="1"/>
+  
+  <!-- 帽子 -->
+  <path d="M8,8 L24,8 L22,4 L10,4 Z" fill="#8B4513"/>
+  
+  <!-- 身体 -->
+  <rect x="12" y="20" width="8" height="16" fill="#FF6347"/>
+  
+  <!-- 手臂 -->
+  <rect x="8" y="20" width="4" height="12" fill="#FF6347"/>
+  <rect x="20" y="20" width="4" height="12" fill="#FF6347"/>
+  
+  <!-- 腿部 -->
+  <rect x="12" y="36" width="4" height="12" fill="#1E90FF"/>
+  <rect x="16" y="36" width="4" height="12" fill="#1E90FF"/>
+</svg>

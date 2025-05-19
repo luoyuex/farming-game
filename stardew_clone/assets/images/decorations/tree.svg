@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- 树干 -->
+  <rect x="28" y="40" width="8" height="16" fill="#8B4513"/>
+  
+  <!-- 树叶 -->
+  <ellipse cx="32" cy="20" rx="20" ry="20" fill="#228B22"/>
+  <ellipse cx="32" cy="30" rx="16" ry="16" fill="#32CD32"/>
+  
+  <!-- 树叶细节 -->
+  <ellipse cx="24" cy="18" rx="4" ry="4" fill="#3CB371"/>
+  <ellipse cx="40" cy="22" rx="5" ry="5" fill="#3CB371"/>
+  <ellipse cx="32" cy="12" rx="3" ry="3" fill="#3CB371"/>
+</svg>
